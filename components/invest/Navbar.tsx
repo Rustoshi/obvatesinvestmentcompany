@@ -47,7 +47,7 @@ export default function Navbar() {
                     className="font-[var(--font-montserrat)] text-base sm:text-lg font-bold tracking-[0.25em] uppercase text-white hover:opacity-80 transition-opacity"
                     style={{ fontFamily: "var(--font-montserrat), sans-serif" }}
                 >
-                    Obvate Investment <span className="text-red-500">Company</span>
+                    Obvate<span className="text-red-500">Investment</span>
                 </Link>
 
                 {/* Center Links — desktop */}
