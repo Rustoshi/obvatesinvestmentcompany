@@ -11,7 +11,7 @@ export default function BrandMark() {
             transition={{ duration: 1, delay: 0.2, ease: "easeOut" }}
         >
             <h1 className="text-lg sm:text-xl md:text-2xl font-extralight tracking-[0.4em] uppercase text-white/90 drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)]">
-                Obvate <span className="text-red-500 font-light">Investment</span> Company
+                Obvate <span className="text-red-500 font-light">Investment</span>
             </h1>
         </motion.header>
     );
