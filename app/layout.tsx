@@ -17,13 +17,13 @@ const montserrat = Montserrat({
 
 export const metadata: Metadata = {
   title: {
-    default: "Tesla Stocks Trading | Invest in the Future",
-    template: "%s | Tesla Stocks Trading",
+    default: "Obvate Investment Company | Invest in the Future",
+    template: "%s | Obvate Investment Company",
   },
   description:
     "Gain exposure to Tesla, SpaceX, Neuralink, xAI, and The Boring Company — the companies shaping humanity's next chapter.",
   keywords: [
-    "Tesla Stocks Trading",
+    "Obvate Investment Company",
     "invest",
     "Tesla",
     "SpaceX",
@@ -33,9 +33,9 @@ export const metadata: Metadata = {
     "digital assets",
     "investment platform",
   ],
-  authors: [{ name: "Tesla Stocks Trading" }],
-  creator: "Tesla Stocks Trading",
-  publisher: "Tesla Stocks Trading",
+  authors: [{ name: "Obvate Investment Company" }],
+  creator: "Obvate Investment Company",
+  publisher: "Obvate Investment Company",
   robots: {
     index: true,
     follow: true,
@@ -43,6 +43,9 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
+      { url: "/favicon.ico", sizes: "32x32", type: "image/x-icon" },
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
       { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
       { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
     ],
@@ -51,8 +54,8 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "Tesla Stocks Trading",
-    title: "Tesla Stocks Trading | Invest in the Future",
+    siteName: "Obvate Investment Company",
+    title: "Obvate Investment Company | Invest in the Future",
     description:
       "Gain exposure to Tesla, SpaceX, Neuralink, xAI, and The Boring Company — the companies shaping humanity's next chapter.",
     images: [
@@ -60,13 +63,13 @@ export const metadata: Metadata = {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Tesla Stocks Trading — Invest in the Future",
+        alt: "Obvate Investment Company — Invest in the Future",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Tesla Stocks Trading | Invest in the Future",
+    title: "Obvate Investment Company | Invest in the Future",
     description:
       "Gain exposure to Tesla, SpaceX, Neuralink, xAI, and The Boring Company.",
     images: ["/og-image.png"],
