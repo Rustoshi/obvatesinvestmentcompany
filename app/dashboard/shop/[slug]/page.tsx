@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const product = await ShopProduct.findOne({ slug }).lean();
     if (!product) return { title: "Product Not Found" };
     return {
-        title: `Design Your ${product.name} | Musk Space`,
+        title: `Design Your ${product.name} | Obvate Investment Company`,
         description: product.description,
     };
 }

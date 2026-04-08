@@ -31,7 +31,7 @@ export default function ShopNavbar() {
                         className={`text-sm font-bold tracking-[0.3em] uppercase shrink-0 transition-colors duration-300 ${scrolled ? "text-black" : "text-white"}`}
                         style={{ fontFamily: "var(--font-montserrat), sans-serif" }}
                     >
-                        Tesla Stocks <span className="text-red-500">Trading</span>
+                        <span className="text-red-500">Obvate</span> Investment <span className="text-red-500">Company</span>
                     </Link>
 
                     {/* Center Nav - Desktop */}

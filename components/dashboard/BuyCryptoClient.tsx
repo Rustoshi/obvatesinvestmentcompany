@@ -200,7 +200,7 @@ export default function BuyCryptoClient({ userCountry: initialUserCountry }: Buy
                     Buy Crypto
                 </h1>
                 <p className="text-sm text-white/50 tracking-widest uppercase max-w-xl mx-auto leading-relaxed">
-                    Easily deposit funds into your Musk Space account by purchasing cryptocurrency through secure, vetted external providers.
+                    Easily deposit funds into your Obvate Investment Company account by purchasing cryptocurrency through secure, vetted external providers.
                 </p>
             </motion.div>
 
@@ -339,7 +339,7 @@ export default function BuyCryptoClient({ userCountry: initialUserCountry }: Buy
                 </div>
                 <h3 className="text-sm font-bold text-white uppercase tracking-widest mb-3">Next Steps</h3>
                 <p className="text-xs text-white/40 max-w-md mx-auto leading-relaxed mb-8">
-                    Once you have successfully purchased crypto via one of the recommended platforms, return to the Deposit page to transfer funds to your Musk Space wallet.
+                    Once you have successfully purchased crypto via one of the recommended platforms, return to the Deposit page to transfer funds to your Obvate Investment Company wallet.
                 </p>
                 <a
                     href="/dashboard/deposit"

@@ -7,7 +7,7 @@ import UserPlan from "@/models/UserPlan";
 import MyPlansClient from "@/components/dashboard/MyPlansClient";
 
 export const metadata = {
-    title: "My Plans | Musk Space",
+    title: "My Plans | Obvate Investment Company",
     description: "Manage and monitor your algorithmic portfolio.",
 };
 

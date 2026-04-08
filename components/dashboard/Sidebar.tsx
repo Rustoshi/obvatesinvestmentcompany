@@ -47,7 +47,7 @@ export default function Sidebar({ isOpen, onClose }: SidebarProps) {
                         className="text-sm font-bold tracking-[0.25em] uppercase text-white"
                         style={{ fontFamily: "var(--font-montserrat), sans-serif" }}
                     >
-                        Tesla Stocks <span className="text-red-500">Trading</span>
+                        Obvate<span className="text-red-500">Investment</span>
                     </Link>
                 </div>
 

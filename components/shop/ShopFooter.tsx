@@ -23,7 +23,7 @@ export default function ShopFooter() {
                     ))}
                 </div>
                 <p className="text-[9px] text-black/40 tracking-widest uppercase font-medium">
-                    © {new Date().getFullYear()} Tesla Stocks Trading. All rights reserved.
+                    © {new Date().getFullYear()} Obvate Investment Company. All rights reserved.
                 </p>
             </div>
         </footer>

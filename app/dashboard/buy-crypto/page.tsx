@@ -6,7 +6,7 @@ import User from "@/models/User";
 import BuyCryptoClient from "@/components/dashboard/BuyCryptoClient";
 
 export const metadata = {
-    title: "Buy Crypto | Musk Space",
+    title: "Buy Crypto | Obvate Investment Company",
     description: "Purchase cryptocurrency through recommended region-specific providers.",
 };
 

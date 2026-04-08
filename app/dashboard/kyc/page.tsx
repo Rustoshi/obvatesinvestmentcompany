@@ -6,7 +6,7 @@ import User from "@/models/User";
 import KYCClient from "@/components/dashboard/KYCClient";
 
 export const metadata = {
-    title: "KYC Verification | Musk Space",
+    title: "KYC Verification | Obvate Investment Company",
     description: "Verify your identity to unlock full platform features.",
 };
 

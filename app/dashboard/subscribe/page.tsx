@@ -7,7 +7,7 @@ import InvestmentPlan from "@/models/InvestmentPlan";
 import SubscribeClient from "@/components/dashboard/SubscribeClient";
 
 export const metadata = {
-    title: "Invest | Musk Space",
+    title: "Invest | Obvate Investment Company",
     description: "Deploy capital into algorithmic trading strategies.",
 };
 
